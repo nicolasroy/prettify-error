@@ -10,7 +10,7 @@
     "format-text": "azer/format-text",
     "failing-code": "nicolasroy/failing-code",
     "left-pad": "azer/left-pad",
-    "style-format": "azer/style-format"
+    "style-format": "nicolasroy/style-format"
   },
   "keywords": [
     "error",
